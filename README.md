@@ -1,6 +1,6 @@
 # Photo Album React App using MUI ( comprehensive suite of UI tools for React )
 
-live url : 
+live url : https://scintillating-souffle-ea7cb1.netlify.app/
 
 ## Available Scripts
 
